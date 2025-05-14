@@ -1,7 +1,7 @@
 # **Product Preview Card Component**
 
 Ce projet est un exercice réalisé dans le cadre des défis de [Frontend Mentor](https://www.frontendmentor.io/). 
- Il consiste à créer une carte d'aperçu de produit en respectant la maquette donnée.
+ Il consiste à créer une carte de présentation de produit en respectant la maquette donnée.
 ## Technologies utilisées
 
 - HTML5
